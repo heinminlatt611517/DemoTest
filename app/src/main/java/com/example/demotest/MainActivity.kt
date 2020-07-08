@@ -27,10 +27,5 @@ class MainActivity : AppCompatActivity() {
     }
 
     private fun testConflit(){
-<<<<<<< HEAD
-      //testConflit
-=======
-
->>>>>>> 6ea8a9435c46761ec0e52a23c853f0707bf80a31
     }
 }
