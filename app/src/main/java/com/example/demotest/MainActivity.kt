@@ -36,4 +36,9 @@ class MainActivity : AppCompatActivity() {
     private fun another(){
         //another test
     }
+
+
+    private fun changetest(){
+        //change
+    }
 }
