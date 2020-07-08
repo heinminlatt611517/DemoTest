@@ -16,4 +16,8 @@ class MainActivity : AppCompatActivity() {
     private fun change(){
         
     }
+
+    private fun branchChange(){
+        
+    }
 }
