@@ -27,6 +27,6 @@ class MainActivity : AppCompatActivity() {
     }
 
     private fun testConflit(){
-        
+
     }
 }
