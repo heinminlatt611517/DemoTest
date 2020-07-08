@@ -25,4 +25,8 @@ class MainActivity : AppCompatActivity() {
     private fun branchChangeAnother(){
       //todo
     }
+
+    private fun testConflit(){
+      //testConflit
+    }
 }
