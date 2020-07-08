@@ -11,6 +11,10 @@ class MainActivity : AppCompatActivity() {
     }
 
     private fun test(){
+<<<<<<< HEAD
         
+=======
+        //test
+>>>>>>> bfeea2bb521217effada08240db57bee9ec5ca6c
     }
 }
