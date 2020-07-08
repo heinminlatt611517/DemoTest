@@ -28,12 +28,5 @@ class MainActivity : AppCompatActivity() {
 
     private fun testConflit(){
     }
-<<<<<<< HEAD
 
-    private fun testAnotherConflit(){
-     //testone
-=======
-    
-    private fun testAnotherConflit(){
-    }
 }
