@@ -29,4 +29,8 @@ class MainActivity : AppCompatActivity() {
     private fun testConflit(){
     }
 
+    private fun conflit(){
+        //testconflit
+    }
+
 }
