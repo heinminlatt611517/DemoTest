@@ -12,4 +12,8 @@ class MainActivity : AppCompatActivity() {
 
     private fun test() {
     }
+
+    private fun change(){
+        
+    }
 }
